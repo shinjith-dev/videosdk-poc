@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "videosdk",
+    "slug": "videosdk",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
